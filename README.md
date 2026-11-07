@@ -20,7 +20,9 @@ and swats at the screen.
 
 ## Use it
 
-Download `calm-the-cat.html` and open it in a web browser. That's it: it's
+**Play it online:** https://dowagercode.github.io/calm-the-cat/
+
+Or download `calm-the-cat.html` and open it in a web browser. Either way it's
 one file, and progress is saved in that browser.
 
 Vibe-coded with Claude.
