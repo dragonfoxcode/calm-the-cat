@@ -25,4 +25,6 @@ and swats at the screen.
 Or download `calm-the-cat.html` and open it in a web browser. Either way it's
 one file, and progress is saved in that browser.
 
+Calm the Cat is built on the [Classroom Timer Template](https://github.com/dowagercode/classroom-timer-template).
+
 Vibe-coded with Claude.
