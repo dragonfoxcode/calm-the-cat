@@ -14,6 +14,10 @@ and swats at the screen.
   and bed colors.
 - **Cat Gallery:** adopt several cats, each with her own name and look, and
   pick which one comes to class.
+- **Scenes:** pick a scene for her room (Cozy Night, Sunny Morning, Rainy Day,
+  Snow Day Cabin, City Loft, Northern Lights, Submarine, Space Cat), or open
+  the Scene Remixer and mix your own window view, wallpaper, picture, floor,
+  rug and extras. Remix! picks a surprise.
 - **Care breaks:** every few dreams she wakes up needing a drink, a snack, the
   litter box or a little play. Leave the litter box unscooped and the poop
   piles up until she gets upset.
